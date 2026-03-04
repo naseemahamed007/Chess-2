@@ -4,12 +4,12 @@ tournaments = {
     "main": {
         "name": "Chennai Open Chess Championship",
         "date": "28 March 2026",
-        "fee": "₹150",
         "mode": "Online",
         "platform": "Chess.com",
+        "fee": "₹150",
         "time": "10 Minutes Rapid",
 
-        "about": "Official tournament by Nas Matrix Chess.",
+        "about": "Official tournament by Nas Matrix Chess Association.",
 
         "contact": {
             "phone": "7094602011",
